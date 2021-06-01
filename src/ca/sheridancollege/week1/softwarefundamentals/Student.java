@@ -16,7 +16,7 @@ public class Student {
     private String email;
     
     private String course;
-
+    
     /**
      * Get the value of course
      *
