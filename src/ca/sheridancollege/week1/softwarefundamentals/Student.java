@@ -7,11 +7,12 @@ package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
  *
- * @author wood_
+ * @author su11 - May 2020
  */
 public class Student {
     
     private String name;
+    
 
     /**
      * Get the value of name
