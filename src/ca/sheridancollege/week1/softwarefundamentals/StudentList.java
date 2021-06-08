@@ -7,7 +7,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
  *
- * @author wood_
+ * @author su11
  */
 public class StudentList {
     public static void main(String[] args) {
